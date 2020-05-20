@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingAlgorithms_WinForm", "SortingAlgorithms_WinForm.csproj", "{F1EA3C10-B8F5-4556-AE0B-990A85F612D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1EA3C10-B8F5-4556-AE0B-990A85F612D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1EA3C10-B8F5-4556-AE0B-990A85F612D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1EA3C10-B8F5-4556-AE0B-990A85F612D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1EA3C10-B8F5-4556-AE0B-990A85F612D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D89C39C9-6FD5-4971-9BDD-475CE29164E3}
+	EndGlobalSection
+EndGlobal

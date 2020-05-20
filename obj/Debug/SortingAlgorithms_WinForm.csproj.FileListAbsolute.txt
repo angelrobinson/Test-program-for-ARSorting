@@ -1,0 +1,14 @@
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\SortingAlgorithms_WinForm\bin\Debug\SortingAlgorithms_WinForm.exe.config
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\SortingAlgorithms_WinForm\bin\Debug\SortingAlgorithms_WinForm.exe
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\SortingAlgorithms_WinForm\bin\Debug\SortingAlgorithms_WinForm.pdb
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\SortingAlgorithms_WinForm\obj\Debug\SortingAlgorithms_WinForm.csprojAssemblyReference.cache
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\SortingAlgorithms_WinForm\obj\Debug\SortingAlgorithms_WinForm.Form1.resources
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\SortingAlgorithms_WinForm\obj\Debug\SortingAlgorithms_WinForm.Properties.Resources.resources
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\SortingAlgorithms_WinForm\obj\Debug\SortingAlgorithms_WinForm.csproj.GenerateResource.cache
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\SortingAlgorithms_WinForm\obj\Debug\SortingAlgorithms_WinForm.csproj.CoreCompileInputs.cache
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\SortingAlgorithms_WinForm\obj\Debug\SortingAlgorithms_WinForm.exe
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\SortingAlgorithms_WinForm\obj\Debug\SortingAlgorithms_WinForm.pdb
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\SortingAlgorithms_WinForm\bin\Debug\ARSorting.dll
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\SortingAlgorithms_WinForm\bin\Debug\ARSorting.pdb
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\SortingAlgorithms_WinForm\bin\Debug\ARSorting.xml
+F:\Move from E Drive\Documents\Visual Studio 2019\Projects\SortingAlgorithms_WinForm\obj\Debug\SortingAlgorithms_WinForm.csproj.CopyComplete
